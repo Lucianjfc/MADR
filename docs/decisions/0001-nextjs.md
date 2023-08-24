@@ -9,7 +9,7 @@ deciders: { Lucian Julio }
 
 ## Context and Problem Statement
 
-- Desenvolvimento de uma aplicação escalável que ofereça dashboards interativos e mapas geográficos.
+- Desenvolvimento de uma aplicação escalável que ofereça dashboards interativos.
 
 <!-- This is an optional element. Feel free to remove. -->
 
